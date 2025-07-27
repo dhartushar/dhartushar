@@ -26,8 +26,8 @@
 
 ### 📫 How to reach me:
 - 📧 tushardhar2000@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/tushardhar2000)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tushar-dhar-28a8b622a)  
+- 🌐 [Portfolio](https://https://tushar-dhar.vercel.app)
 
 ---
 
